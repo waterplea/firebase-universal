@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "jscore-sandbox-141b5": {
+      "hosting": {
+        "firebase-universal": [
+          "jscore-sandbox-141b5"
+        ]
+      }
+    }
+  }
+}
